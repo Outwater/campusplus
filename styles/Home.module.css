@@ -7,6 +7,14 @@
   align-items: center;
 }
 
+.mainContainer {
+  
+
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 100%;
+}
 .main {
   padding: 5rem 0;
   flex: 1;
@@ -55,6 +63,7 @@
 .title,
 .description {
   text-align: center;
+  margin-top: 10px;
 }
 
 .description {
